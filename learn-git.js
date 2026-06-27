@@ -1,1 +1,1 @@
-// nhanh thainv
+console.log('version 1');
