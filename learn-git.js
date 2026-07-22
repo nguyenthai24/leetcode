@@ -1,5 +1,5 @@
-console.log('feature A + feature B');
+console.log("feature A");
 
-console.log('hello word');
+console.log("hello word");
 
 // test git --amend
