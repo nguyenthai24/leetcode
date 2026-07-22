@@ -1,1 +1,7 @@
-console.log("feature B");
+console.log("feature A");
+
+console.log("hello word");
+
+// test git --amend
+
+console.log("2");
