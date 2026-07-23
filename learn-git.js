@@ -7,3 +7,5 @@ console.log("hello word");
 console.log("2");
 
 console.log("4");
+
+console.log("reset --soft");
