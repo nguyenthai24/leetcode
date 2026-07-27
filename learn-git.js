@@ -12,5 +12,10 @@ const b = {
 
 b.address.city = "Da Nang";
 
-console.log(a);
-console.log(b);
+console.log("2");
+
+console.log("4");
+
+console.log("reset --soft");
+
+console.log("revert");
