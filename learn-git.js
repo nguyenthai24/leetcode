@@ -1,9 +1,16 @@
-console.log("feature A");
+const a = {
+  name: "Thai",
+  address: {
+    city: "Ha Noi",
+  },
+};
+const b = {
+  ...a,
 
-console.log("hello word");
+  address: { ...a.address },
+};
 
-// test git --amend
+b.address.city = "Da Nang";
 
-console.log("2");
-
-console.log("4");
+console.log(a);
+console.log(b);
